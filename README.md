@@ -1,6 +1,6 @@
 # bitsofvim
 
-##  c
+##  Commands
 **Normal**
 
 navigate:
