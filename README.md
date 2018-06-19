@@ -5,29 +5,29 @@
 
 navigate:
 
-`G` go to first char of last line
+- `G` go to first char of last line
 
-`gg` go to first char of first line
+- `gg` go to first char of first line
 
 go to insert:
 
-`o` create a new line below (lowercase o)
+- `o` create a new line below (lowercase o)
 
-`O` create a new line above (uppercase o)
+- `O` create a new line above (uppercase o)
 
-`A` end of line
+- `A` end of line
 
-`s` delete character
+- `s` delete character
 
 indent lines:
 
-`>>` indent current line
+- `>>` indent current line
 
-`>G` indent all lines to end of file
+- `>G` indent all lines to end of file
 
-`:put` replay the last register on the next line
+- `:put` replay the last register on the next line
 
-`:put a` replay register a on the next line
+- `:put a` replay register a on the next line
 
 ## Macros
 
